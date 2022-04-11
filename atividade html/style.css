@@ -1,0 +1,39 @@
+.box{
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+h1{
+   position: relative; 
+    margin: auto;
+}
+
+li{
+    text-transform: uppercase;
+    color: #000000;
+    text-decoration: none;
+    font-weight: bold;
+    background: rgba(211, 212, 212, 0.863);
+}
+
+nav li{
+    display: inline;
+    margin: 0 0 0 15px;
+    display: inline-block;
+    text-align: center;
+    vertical-align: top;
+    margin: 0 2%;
+    padding: 30px 20px;
+    box-sizing: border-box;
+    width: 30%;
+    border: 2px solid #000000;
+    border-radius: 20px;
+    margin-top: 20px;
+}
+
+footer{
+    text-align: center;
+    padding: 500px 0;
+}
